@@ -1,0 +1,14 @@
+2017-02-19 13:07:46.115942|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2017-02-19 13:07:46.116190|INFO    |ServerLibPriv |   | SystemInformation: Linux 4.4.35-2-pve #1 SMP Fri Jan 20 13:58:17 CET 2017 i686 Binary: 32bit
+2017-02-19 13:07:46.119437|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-02-19 13:07:46.119728|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2017-02-19 13:07:46.126495|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-02-19 13:07:46.177583|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2017-02-19 13:07:58.989994|INFO    |              |   | Puzzle precompute time: 12774
+2017-02-19 13:07:58.990823|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-02-19 13:07:59.082730|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-02-19 13:07:59.083453|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-03-01 00:01:46.268675|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-03-01 00:01:46.298244|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-03-10 15:15:39.183639|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2017-03-25 22:17:28.861569|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0

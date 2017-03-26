@@ -1,0 +1,25 @@
+2015-12-05 20:34:58.098986|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2015-12-05 20:34:58.099233|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-37-pve #1 SMP Wed Feb 11 10:00:27 CET 2015 i686 Binary: 32bit
+2015-12-05 20:34:58.100550|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-12-05 20:34:58.100650|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2015-12-05 20:34:58.101287|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-12-05 20:34:58.141861|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-12-05 20:35:15.061044|INFO    |              |   | Puzzle precompute time: 16890
+2015-12-05 20:35:15.061843|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-12-05 20:35:15.061933|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-12-05 20:35:15.062274|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-12-05 20:35:15.215479|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-12-05 20:35:15.216163|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-01-01 00:01:58.238176|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-01-01 00:01:58.305275|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-02-01 00:01:58.238607|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-02-01 00:01:58.265979|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-02-21 01:30:12.425543|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-02-27 19:10:46.877380|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2016-03-01 00:01:58.234841|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-03-01 00:01:58.273670|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-04-01 00:01:58.266914|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-04-01 00:01:58.311699|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-05-01 00:01:58.261656|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-05-01 00:01:58.304145|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-05-05 07:02:25.000382|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

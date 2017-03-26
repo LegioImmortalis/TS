@@ -1,0 +1,11 @@
+2015-08-19 16:57:36.665647|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-08-20 12:28:21.652286|INFO    |VirtualServer |  1| client (id:13) was added to servergroup 'Server Admin'(id:6) by client 'Nagyapa'(id:10)
+2015-08-23 16:25:10.469088|INFO    |VirtualServer |  1| client (id:15) was added to servergroup 'Server Admin'(id:6) by client 'Globus'(id:9)
+2015-08-23 16:25:13.917838|INFO    |VirtualServer |  1| client 'Colos'(id:15) was added to channelgroup 'Channel Admin'(id:5) by client 'Globus'(id:9) in channel 'Welcome'(id:1)
+2015-08-23 16:25:23.241313|INFO    |VirtualServer |  1| client (id:14) was added to servergroup 'Server Admin'(id:6) by client 'Globus'(id:9)
+2015-08-23 16:25:26.679843|INFO    |VirtualServer |  1| client 'krisx'(id:14) was added to channelgroup 'Channel Admin'(id:5) by client 'Globus'(id:9) in channel 'Welcome'(id:1)
+2015-08-23 16:25:35.393450|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'Drakown'(id:5) for client (id:5) and channel 'Welcome'(id:1)
+2015-08-23 18:42:27.454363|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Drakown'(id:5) for client (id:5) and channel 'Welcome'(id:1)
+2015-08-24 21:05:32.021516|INFO    |VirtualServer |  1| client (id:17) was added to servergroup 'Server Admin'(id:6) by client 'sugo1'(id:6)
+2015-08-27 12:12:53.625454|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-945325302) was added by 'sugo'(id:6) to channel 'zZZzZzz'(id:7)
+2015-09-25 18:38:58.179269|INFO    |VirtualServer |  1| client 'Jenoo'(id:17) was added to channelgroup 'Channel Admin'(id:5) by client 'Jenoo'(id:17) in channel 'Welcome'(id:1)

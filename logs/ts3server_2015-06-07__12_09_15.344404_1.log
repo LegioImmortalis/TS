@@ -1,0 +1,5 @@
+2015-06-07 12:09:23.123833|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-06-07 21:32:16.149360|INFO    |VirtualServer |  1| client (id:5) was added to servergroup 'Server Admin'(id:6) by client 'sugo'(id:2)
+2015-06-07 21:33:14.384508|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'Drakown'(id:5) for client (id:5) and channel 'Welcome'(id:1)
+2015-06-07 21:33:50.262399|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Drakown'(id:5) for client (id:5) and channel 'Welcome'(id:1)
+2015-06-18 23:41:01.731777|INFO    |VirtualServerBase|  1| stopped

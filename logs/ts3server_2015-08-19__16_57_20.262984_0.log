@@ -1,0 +1,29 @@
+2015-08-19 16:57:20.263292|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2015-08-19 16:57:20.263543|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-37-pve #1 SMP Wed Feb 11 10:00:27 CET 2015 i686 Binary: 32bit
+2015-08-19 16:57:20.281420|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-08-19 16:57:20.282180|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2015-08-19 16:57:20.284954|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-08-19 16:57:20.351079|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-08-19 16:57:36.549605|INFO    |              |   | Puzzle precompute time: 16155
+2015-08-19 16:57:36.550629|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-08-19 16:57:36.672183|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-08-19 16:57:36.673117|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-08-27 12:00:34.780258|ERROR   |StringHelp    |   | Error during iconv: Invalid or incomplete multibyte or wide character
+2015-08-27 12:00:54.121018|ERROR   |StringHelp    |   | Error during iconv: Invalid or incomplete multibyte or wide character
+2015-08-27 12:01:11.425183|ERROR   |StringHelp    |   | Error during iconv: Invalid or incomplete multibyte or wide character
+2015-09-01 00:00:20.432571|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-09-01 00:00:20.432980|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-09-04 18:34:39.825252|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2015-10-01 00:00:20.414625|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-10-01 00:00:20.450350|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-10-20 05:00:13.575651|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2015-10-20 16:20:16.968715|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2015-10-20 18:50:17.433441|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2015-10-21 03:10:19.578555|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2015-11-01 00:00:20.432997|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-11-01 00:00:20.449446|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-11-08 18:52:21.844117|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2015-11-29 14:44:44.463657|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2015-11-29 15:24:49.576817|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2015-11-29 15:34:51.036358|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2015-11-29 15:44:53.085126|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11

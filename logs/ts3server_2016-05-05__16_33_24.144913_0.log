@@ -1,0 +1,35 @@
+2016-05-05 16:33:24.145150|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.3 (2015-04-13 13:26:31)
+2016-05-05 16:33:24.145527|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-37-pve #1 SMP Wed Feb 11 10:00:27 CET 2015 i686 Binary: 32bit
+2016-05-05 16:33:24.170178|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-05-05 16:33:24.170926|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2016-05-05 16:33:24.173463|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-05-05 16:33:24.250964|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2016-05-05 16:33:35.935894|INFO    |              |   | Puzzle precompute time: 11657
+2016-05-05 16:33:35.936858|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2016-05-05 16:33:36.051971|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-05-05 16:33:36.052671|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-06-01 00:00:24.350195|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-06-01 00:00:24.433286|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-07-01 00:00:24.356544|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-07-01 00:00:24.407244|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-07-20 12:08:13.082534|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-07-20 12:38:13.034490|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-07-20 19:38:13.292081|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-08-01 00:00:24.331843|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-08-01 00:00:24.380218|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-09-01 00:00:24.358599|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-09-01 00:00:24.393559|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-09-26 16:16:16.681581|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2016-10-01 00:00:24.349556|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-10-01 00:00:24.434885|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-10-03 14:27:01.037398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2016-11-01 00:00:24.331227|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-11-01 00:00:24.474164|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-12-01 00:00:24.348782|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-12-01 00:00:24.404890|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-01-01 00:00:24.352180|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-01-01 00:00:24.417866|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-01-01 20:08:11.832749|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-01-16 16:49:39.731576|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -2 (Name or service not known) 0
+2017-02-01 00:00:24.330161|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-02-01 00:00:24.387315|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
