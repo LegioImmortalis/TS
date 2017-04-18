@@ -1,0 +1,14 @@
+﻿2017-03-26 22:42:22.475351|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.6 (2016-11-08 08:48:33)
+2017-03-26 22:42:22.475845|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.4.44-1-pve #1 SMP PVE 4.4.44-84 (Thu, 9 Mar 2017 12:06:34 +0100) x86_64 Binary: 64bit
+2017-03-26 22:42:22.475879|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2017-03-26 22:42:22.475900|INFO    |ServerLibPriv |   |Using hardware aes
+2017-03-26 22:42:22.481761|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-03-26 22:42:22.481851|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-03-26 22:42:22.486019|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-03-26 22:42:22.515060|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-03-26 22:42:25.199536|INFO    |              |   |Puzzle precompute time: 2568
+2017-03-26 22:42:25.200547|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-03-26 22:42:25.291137|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-03-26 22:42:25.291368|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2017-03-26 22:42:27.415469|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.
+2017-03-26 22:42:27.415527|INFO    |ServerMain    |   |Received signal SIGHUP, shutting down.

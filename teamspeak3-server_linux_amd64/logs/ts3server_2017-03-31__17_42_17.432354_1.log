@@ -1,0 +1,3 @@
+﻿2017-03-31 17:42:20.953248|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-03-31 17:42:43.682445|DEVELOP |VirtualServerBase|1  |After 2 seconds there were still 2Clients connected
+2017-03-31 17:42:43.683087|INFO    |VirtualServerBase|1  |stopped

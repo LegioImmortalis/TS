@@ -1,0 +1,6 @@
+﻿2017-03-26 12:27:38.444771|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.6 (2016-11-08 08:48:33)
+2017-03-26 12:27:38.444961|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.4.44-1-pve #1 SMP PVE 4.4.44-84 (Thu, 9 Mar 2017 12:06:34 +0100) x86_64 Binary: 64bit
+2017-03-26 12:27:38.445066|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2017-03-26 12:27:38.445165|INFO    |ServerLibPriv |   |Using hardware aes
+2017-03-26 12:27:38.445373|INFO    |DatabaseQuery |   |Please make sure you use the supplied ts3server_minimal_runscript.sh to run the server, or set LD_LIBRARY_PATH yourself
+2017-03-26 12:27:38.445454|CRITICAL|DatabaseQuery |   |unable to load database plugin library "libts3db_sqlite3.so", halting!
